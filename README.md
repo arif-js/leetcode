@@ -13,3 +13,4 @@ This repository contains my personal, accepted solutions to LeetCode problems (S
 | Remove Duplicates from Sorted Array | [remove-duplicates-from-sorted-array.js](./remove-duplicates-from-sorted-array.js) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | Sum of Distances | [sum-of-distances.js](./sum-of-distances.js) | [Link](https://leetcode.com/problems/sum-of-distances/description/) |
 | Remove Duplicates from Sorted List | [remove-duplicates-from-sorted-list.js](./remove-duplicates-from-sorted-list.js) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 3Sum | [3sum.py](./3sum.py) | [Link](https://leetcode.com/problems/3sum/description/) |
