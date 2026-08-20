@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my personal, accepted solutions to LeetCode problems without AI helps (starting from 2026)
+This repository contains my personal, accepted solutions to LeetCode problems without AI helps (starting from July, 2026)
 
 **My LeetCode Profile**: [arif_-_ul_-](https://leetcode.com/u/arif_-_ul_-/)
 
