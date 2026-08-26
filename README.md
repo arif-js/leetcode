@@ -15,3 +15,4 @@ This repository contains my personal, accepted solutions to LeetCode problems wi
 | Remove Duplicates from Sorted List | [remove-duplicates-from-sorted-list.js](./remove-duplicates-from-sorted-list.js) | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 3Sum | [3sum.py](./3sum.py) | [Link](https://leetcode.com/problems/3sum/description/) |
 | Longest Increasing Subsequence | [longest-increasing-subsequence.py](./longest-increasing-subsequence.py) | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
+| Gas Station | [gas-station.py](./gas-station.py) | [Link](https://leetcode.com/problems/gas-station/) |
