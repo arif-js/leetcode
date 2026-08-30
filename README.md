@@ -4,6 +4,8 @@ This repository contains my personal, accepted solutions to LeetCode problems wi
 
 **My LeetCode Profile**: [arif_-_ul_-](https://leetcode.com/u/arif_-_ul_-/)
 
+Google Jules is used exclusively to automate README updates (linking problem statements and solution files). All problem-solving and code implementations are entirely my own.
+
 ## Problems
 
 | Problem | File | Link |
