@@ -18,3 +18,4 @@ This repository contains my personal, accepted solutions to LeetCode problems wi
 | Gas Station | [gas-station.py](./gas-station.py) | [Link](https://leetcode.com/problems/gas-station/) |
 | Reward Top K Students | [reward-top-k-students.py](./reward-top-k-students.py) | [Link](https://leetcode.com/problems/reward-top-k-students/) |
 | Koko Eating Bananas | [koko-eating-bananas.py](./koko-eating-bananas.py) | [Link](https://leetcode.com/problems/koko-eating-bananas/) |
+| Shuffle the Array | [shuffle-the-array.py](./shuffle-the-array.py) | [Link](https://leetcode.com/problems/shuffle-the-array/description/) |
