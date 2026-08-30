@@ -21,3 +21,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Reward Top K Students | [reward-top-k-students.py](./reward-top-k-students.py) | [Link](https://leetcode.com/problems/reward-top-k-students/) |
 | Koko Eating Bananas | [koko-eating-bananas.py](./koko-eating-bananas.py) | [Link](https://leetcode.com/problems/koko-eating-bananas/) |
 | Shuffle the Array | [shuffle-the-array.py](./shuffle-the-array.py) | [Link](https://leetcode.com/problems/shuffle-the-array/description/) |
+| Interval List Intersections | [interval-list-intersections.py](./interval-list-intersections.py) | [Link](https://leetcode.com/problems/interval-list-intersections/) |
