@@ -17,3 +17,4 @@ This repository contains my personal, accepted solutions to LeetCode problems wi
 | Longest Increasing Subsequence | [longest-increasing-subsequence.py](./longest-increasing-subsequence.py) | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | Gas Station | [gas-station.py](./gas-station.py) | [Link](https://leetcode.com/problems/gas-station/) |
 | Reward Top K Students | [reward-top-k-students.py](./reward-top-k-students.py) | [Link](https://leetcode.com/problems/reward-top-k-students/) |
+| Koko Eating Bananas | [koko-eating-bananas.py](./koko-eating-bananas.py) | [Link](https://leetcode.com/problems/koko-eating-bananas/) |
