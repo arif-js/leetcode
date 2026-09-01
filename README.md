@@ -25,3 +25,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Squares of a Sorted Array | [squares-of-a-sorted-array.py](./squares-of-a-sorted-array.py) | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | Basic Calculator II | [basic-calculator-ii.py](./basic-calculator-ii.py) | [Link](https://leetcode.com/problems/basic-calculator-ii/description/) |
 | Permutations | [permutations.py](./permutations.py) | [Link](https://leetcode.com/problems/permutations/) |
+| Permutations II | [permutations-ii.py](./permutations-ii.py) | [Link](https://leetcode.com/problems/permutations-ii/) |
