@@ -26,3 +26,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Basic Calculator II | [basic-calculator-ii.py](./basic-calculator-ii.py) | [Link](https://leetcode.com/problems/basic-calculator-ii/description/) |
 | Permutations | [permutations.py](./permutations.py) | [Link](https://leetcode.com/problems/permutations/) |
 | Permutations II | [permutations-ii.py](./permutations-ii.py) | [Link](https://leetcode.com/problems/permutations-ii/) |
+| Construct Uniform Parity Array I | [construct-uniform-parity-array-i.py](./construct-uniform-parity-array-i.py) | [Link](https://leetcode.com/problems/construct-uniform-parity-array-i/) |
