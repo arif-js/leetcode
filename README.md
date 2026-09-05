@@ -28,3 +28,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Permutations II | [permutations-ii.py](./permutations-ii.py) | [Link](https://leetcode.com/problems/permutations-ii/) |
 | Construct Uniform Parity Array I | [construct-uniform-parity-array-i.py](./construct-uniform-parity-array-i.py) | [Link](https://leetcode.com/problems/construct-uniform-parity-array-i/) |
 | Combination Sum | [combination-sum.py](./combination-sum.py) | [Link](https://leetcode.com/problems/combination-sum) |
+| Course Schedule | [course-schedule.py](./course-schedule.py) | [Link](https://leetcode.com/problems/course-schedule) |
