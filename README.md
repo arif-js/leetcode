@@ -30,3 +30,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Combination Sum | [combination-sum.py](./combination-sum.py) | [Link](https://leetcode.com/problems/combination-sum) |
 | Course Schedule | [course-schedule.py](./course-schedule.py) | [Link](https://leetcode.com/problems/course-schedule) |
 | Container With Most Water | [container-with-most-water.py](./container-with-most-water.py) | [Link](https://leetcode.com/problems/container-with-most-water/) |
+| LRU Cache | [lru-cache.py](./lru-cache.py) | [Link](https://leetcode.com/problems/lru-cache/) |
