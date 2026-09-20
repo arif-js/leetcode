@@ -33,3 +33,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | LRU Cache | [lru-cache.py](./lru-cache.py) | [Link](https://leetcode.com/problems/lru-cache/) |
 | Snakes and Ladders | [snakes-and-ladders.py](./snakes-and-ladders.py) | [Link](https://leetcode.com/problems/snakes-and-ladders/) |
 | Longest Common Prefix | [longest-common-prefix.py](./longest-common-prefix.py) | [Link](https://leetcode.com/problems/longest-common-prefix/) |
+| Course Schedule II | [course-schedule-ii.py](./course-schedule-ii.py) | [Link](https://leetcode.com/problems/course-schedule-ii) |
