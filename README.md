@@ -32,3 +32,4 @@ Google Jules is used exclusively to automate README updates (linking problem sta
 | Container With Most Water | [container-with-most-water.py](./container-with-most-water.py) | [Link](https://leetcode.com/problems/container-with-most-water/) |
 | LRU Cache | [lru-cache.py](./lru-cache.py) | [Link](https://leetcode.com/problems/lru-cache/) |
 | Snakes and Ladders | [snakes-and-ladders.py](./snakes-and-ladders.py) | [Link](https://leetcode.com/problems/snakes-and-ladders/) |
+| Longest Common Prefix | [longest-common-prefix.py](./longest-common-prefix.py) | [Link](https://leetcode.com/problems/longest-common-prefix/) |
