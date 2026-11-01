@@ -6,6 +6,22 @@ This repository contains my personal, accepted solutions to LeetCode problems wi
 
 Google Jules is used exclusively to automate README updates (linking problem statements and solution files). All problem-solving and code implementations are entirely my own.
 
+## Dashboard
+
+Run `python3 dashboard/dashboard.py` from this repository and open [http://127.0.0.1:8000](http://127.0.0.1:8000) to browse the solutions.
+
+The dashboard shows the all-time LeetCode total alongside this year's run, reads each solution's code in-page, and pulls live data from the public LeetCode GraphQL API: solved counts by difficulty, problems solved per language, the submission calendar behind the activity chart, and the 20 most recent accepted submissions. No authentication is used, so the full list of solved problems and submitted code are not available — only the solutions committed here have readable code. Repository dates show when a solution was first added to Git, which may differ from when it was solved.
+
+### Publish for free with Vercel
+
+The dashboard can be deployed to Vercel's free Hobby plan for personal use:
+
+1. Push this repository to GitHub.
+2. Sign in to [Vercel](https://vercel.com/) and import `arif-js/leetcode`.
+3. Keep the project root at the repository root and deploy. Vercel uses `app.py` for the dashboard and its API.
+
+The overall LeetCode total is fetched live. The first-add dates are snapshotted for deployments; after adding solutions, refresh that snapshot with `python3 -m dashboard.update_dates` and push the change.
+
 ## Problems
 
 | Problem | File | Link |
